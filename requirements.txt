@@ -4,5 +4,7 @@ streamlit
 datetime
 openpyxl
 Pydeck
+streamlit_option_menu
+option_menu
 
 
